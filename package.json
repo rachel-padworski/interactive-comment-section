@@ -1,0 +1,24 @@
+{
+  "name": "interactive-comments-section-main",
+  "version": "1.0.0",
+  "description": "comments-section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachel-padworski/interactive-comment-section.git"
+  },
+  "author": "Rachel Padworski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachel-padworski/interactive-comment-section/issues"
+  },
+  "homepage": "https://github.com/rachel-padworski/interactive-comment-section#readme",
+  "devDependencies": {
+    "sass": "^1.49.0",
+    "sass-loader": "^12.4.0",
+    "webpack": "^5.66.0"
+  }
+}
